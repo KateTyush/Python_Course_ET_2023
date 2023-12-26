@@ -1,4 +1,4 @@
-# Script for for analyzing log files 
+# Script for analyzing log files 
 
 The script makes the analysis of log files and provides information about:
 - total number of requests
